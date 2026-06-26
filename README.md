@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <img src="./assets/header.png" alt="Profile header" />
 </p>
@@ -126,6 +126,3 @@
 <p align="center">
   <em>Thanks for visiting my profile.</em>
 </p>
-=======
-
->>>>>>> c7cc5c62865b9da6ecf4caff5be7f002038a6039
