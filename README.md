@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="./assets/header.png" alt="Profile header" />
+  <img width="100%" src="./assets/miko.gif" alt="Profile header" />
 </p>
 
 <h1 align="center">Hi, I'm Thin Htet San</h1>
@@ -36,7 +36,7 @@
 
     </td>
     <td valign="top" width="36%">
-      <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="decorative animation" width="100%" />
+      <img src="assets/miko.jpg" alt="decorative animation" width="100%" />
     </td>
   </tr>
 </table>
