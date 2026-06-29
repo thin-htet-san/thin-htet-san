@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/header.png" alt="Profile header" />
+  <img width="100%" src="./assets/header.png" alt="Profile header" />
 </p>
 
 <h1 align="center">Hi, I'm Thin Htet San</h1>
