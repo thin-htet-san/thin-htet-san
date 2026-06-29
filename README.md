@@ -102,7 +102,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thin-htet-san&theme=rose_pine&hide_border=true&background=151118&ring=f4a7b9&fire=f4a7b9&currStreakLabel=f6c1d1" />
+  <img src="https://streak-stats.demolab.com?user=thin-htet-san&theme=rose_pine&hide_border=true&background=151118&ring=ff8fb7&fire=ff8fb7&currStreakLabel=ffb6c8" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thin-htet-san&theme=github-compact&bg_color=151118&color=ffb6c8&line=ff8fb7&point=ff5c93&area=true&area_color=ff8fb7&hide_border=true"
+    alt="Contribution activity graph"
+  />
 </p>
 
 ---
