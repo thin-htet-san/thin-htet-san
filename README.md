@@ -13,10 +13,10 @@
   <a href="https://github.com/thin-htet-san">
     <img src="https://img.shields.io/badge/GitHub-thin--htet--san-2b1b2f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/thin-htet-san-83179a324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-8b4b6b?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="aiyurina16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-ffb6c8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
